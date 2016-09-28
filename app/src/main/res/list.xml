@@ -1,0 +1,640 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+    <detailContent>
+        <buildings>
+            <item>
+                <id>74</id>
+                <title>Acqualina</title>
+                <image>images/274.jpg</image>
+                <address>17875 Collins Ave</address>
+                <rent>25</rent>
+                <sale>28</sale>
+                <coordinate>
+                    <lng>-80.1207193</lng>
+                    <lat>25.9408371</lat>
+                </coordinate>
+                <min_rent>11000</min_rent>
+                <min_sale>680000</min_sale>
+            </item>
+            <item>
+                <id>3</id>
+                <title>Chateau Beach Residences</title>
+                <image>images/13.jpg</image>
+                <address>17475 Collins Ave</address>
+                <rent>3</rent>
+                <sale>24</sale>
+                <coordinate>
+                    <lng>-80.120769</lng>
+                    <lat>25.9378165</lat>
+                </coordinate>
+                <min_rent>12000</min_rent>
+                <min_sale>1629000</min_sale>
+            </item>
+            <item>
+                <id>5</id>
+                <title>Jade Beach</title>
+                <image>images/35.jpg</image>
+                <address>17001 Collins Ave</address>
+                <rent>23</rent>
+                <sale>24</sale>
+                <coordinate>
+                    <lng>-80.121095</lng>
+                    <lat>25.9335231</lat>
+                </coordinate>
+                <min_rent>3850</min_rent>
+                <min_sale>295000</min_sale>
+            </item>
+            <item>
+                <id>6</id>
+                <title>Jade Ocean</title>
+                <image>images/96.jpg</image>
+                <address>17121 Collins Ave</address>
+                <rent>24</rent>
+                <sale>27</sale>
+                <coordinate>
+                    <lng>-80.1209321</lng>
+                    <lat>25.9345579</lat>
+                </coordinate>
+                <min_rent>3995</min_rent>
+                <min_sale>989000</min_sale>
+            </item>
+            <item>
+                <id>40</id>
+                <title>Jade Signature</title>
+                <image>images/1640.jpg</image>
+                <address>16901 Collins Ave</address>
+                <rent>0</rent>
+                <sale>7</sale>
+                <coordinate>
+                    <lng>-80.1229394</lng>
+                    <lat>25.9333753</lat>
+                </coordinate>
+                <min_rent/>
+                <min_sale>4985000</min_sale>
+            </item>
+            <item>
+                <id>41</id>
+                <title>King David</title>
+                <image>images/641.jpg</image>
+                <address>17555 Atlantic Blvd</address>
+                <rent>15</rent>
+                <sale>10</sale>
+                <coordinate>
+                    <lng>-80.1223389</lng>
+                    <lat>25.9389835</lat>
+                </coordinate>
+                <min_rent>2600</min_rent>
+                <min_sale>445000</min_sale>
+            </item>
+            <item>
+                <id>42</id>
+                <title>La Perla</title>
+                <image>images/242.jpg</image>
+                <address>16699 Collins Ave</address>
+                <rent>119</rent>
+                <sale>33</sale>
+                <coordinate>
+                    <lng>-80.1214432</lng>
+                    <lat>25.9301249</lat>
+                </coordinate>
+                <min_rent>2590</min_rent>
+                <min_sale>299000</min_sale>
+            </item>
+            <item>
+                <id>43</id>
+                <title>Mansions At Acqualina</title>
+                <image>images/143.jpg</image>
+                <address>17749 Collins Ave</address>
+                <rent>8</rent>
+                <sale>15</sale>
+                <coordinate>
+                    <lng>-80.1203695</lng>
+                    <lat>25.940068</lat>
+                </coordinate>
+                <min_rent>24000</min_rent>
+                <min_sale>6100000</min_sale>
+            </item>
+            <item>
+                <id>44</id>
+                <title>Marenas</title>
+                <image>images/144.jpg</image>
+                <address>18683 Collins Ave</address>
+                <rent>10</rent>
+                <sale>22</sale>
+                <coordinate>
+                    <lng>-80.1199161</lng>
+                    <lat>25.9491427</lat>
+                </coordinate>
+                <min_rent>1300</min_rent>
+                <min_sale>450000</min_sale>
+            </item>
+            <item>
+                <id>45</id>
+                <title>Millennium</title>
+                <image>images/145.jpg</image>
+                <address>18671 Collins Ave</address>
+                <rent>6</rent>
+                <sale>10</sale>
+                <coordinate>
+                    <lng>-80.1199163</lng>
+                    <lat>25.948681</lat>
+                </coordinate>
+                <min_rent>3800</min_rent>
+                <min_sale>1149000</min_sale>
+            </item>
+            <item>
+                <id>73</id>
+                <title>Muse</title>
+                <image>images/373.jpg</image>
+                <address>17141 Collins Ave</address>
+                <rent>0</rent>
+                <sale>2</sale>
+                <coordinate>
+                    <lng>-80.1226473</lng>
+                    <lat>25.9345717</lat>
+                </coordinate>
+                <min_rent/>
+                <min_sale>18900000</min_sale>
+            </item>
+            <item>
+                <id>50</id>
+                <title>Ocean Four</title>
+                <image>images/150.jpg</image>
+                <address>17201 Collins Ave</address>
+                <rent>16</rent>
+                <sale>23</sale>
+                <coordinate>
+                    <lng>-80.1209488</lng>
+                    <lat>25.9355186</lat>
+                </coordinate>
+                <min_rent>3350</min_rent>
+                <min_sale>825000</min_sale>
+            </item>
+            <item>
+                <id>47</id>
+                <title>Ocean One</title>
+                <image>images/247.jpg</image>
+                <address>19333 Collins Ave</address>
+                <rent>8</rent>
+                <sale>6</sale>
+                <coordinate>
+                    <lng>-80.1199104</lng>
+                    <lat>25.9552338</lat>
+                </coordinate>
+                <min_rent>4200</min_rent>
+                <min_sale>1250000</min_sale>
+            </item>
+            <item>
+                <id>49</id>
+                <title>Ocean Three</title>
+                <image>images/249.jpeg</image>
+                <address>18911 Collins Ave</address>
+                <rent>7</rent>
+                <sale>14</sale>
+                <coordinate>
+                    <lng>-80.1199905</lng>
+                    <lat>25.9507964</lat>
+                </coordinate>
+                <min_rent>3300</min_rent>
+                <min_sale>859000</min_sale>
+            </item>
+            <item>
+                <id>48</id>
+                <title>Ocean Two</title>
+                <image>images/748.jpg</image>
+                <address>19111 Collins Ave</address>
+                <rent>11</rent>
+                <sale>13</sale>
+                <coordinate>
+                    <lng>-80.1198319</lng>
+                    <lat>25.9533587</lat>
+                </coordinate>
+                <min_rent>3600</min_rent>
+                <min_sale>1295000</min_sale>
+            </item>
+            <item>
+                <id>51</id>
+                <title>Oceania I</title>
+                <image>images/351.jpg</image>
+                <address>16425 Collins Ave</address>
+                <rent>12</rent>
+                <sale>10</sale>
+                <coordinate>
+                    <lng>-80.1216189</lng>
+                    <lat>25.9277195</lat>
+                </coordinate>
+                <min_rent>2900</min_rent>
+                <min_sale>675000</min_sale>
+            </item>
+            <item>
+                <id>52</id>
+                <title>Oceania II</title>
+                <image>images/252.jpg</image>
+                <address>16445 Collins Ave</address>
+                <rent>4</rent>
+                <sale>7</sale>
+                <coordinate>
+                    <lng>-80.1217667</lng>
+                    <lat>25.9286037</lat>
+                </coordinate>
+                <min_rent>3800</min_rent>
+                <min_sale>575000</min_sale>
+            </item>
+            <item>
+                <id>53</id>
+                <title>Oceania III</title>
+                <image>images/353.jpg</image>
+                <address>16485 Collins Ave</address>
+                <rent>8</rent>
+                <sale>12</sale>
+                <coordinate>
+                    <lng>-80.1216207</lng>
+                    <lat>25.9284427</lat>
+                </coordinate>
+                <min_rent>2985</min_rent>
+                <min_sale>85000</min_sale>
+            </item>
+            <item>
+                <id>54</id>
+                <title>Oceania IV</title>
+                <image>images/1554.jpg</image>
+                <address>16400 Collins Ave</address>
+                <rent>6</rent>
+                <sale>9</sale>
+                <coordinate>
+                    <lng>-80.1216207</lng>
+                    <lat>25.9284427</lat>
+                </coordinate>
+                <min_rent>3100</min_rent>
+                <min_sale>619000</min_sale>
+            </item>
+            <item>
+                <id>55</id>
+                <title>Oceania V</title>
+                <image>images/455.jpg</image>
+                <address>16500 Collins Ave</address>
+                <rent>5</rent>
+                <sale>13</sale>
+                <coordinate>
+                    <lng>-80.1246236</lng>
+                    <lat>25.9283383</lat>
+                </coordinate>
+                <min_rent>3900</min_rent>
+                <min_sale>389000</min_sale>
+            </item>
+            <item>
+                <id>57</id>
+                <title>Pinnacle</title>
+                <image>images/Pinnacle_3.05457.jpg</image>
+                <address>17555 Collins Ave</address>
+                <rent>19</rent>
+                <sale>22</sale>
+                <coordinate>
+                    <lng>-80.120595</lng>
+                    <lat>25.9391561</lat>
+                </coordinate>
+                <min_rent>3950</min_rent>
+                <min_sale>270000</min_sale>
+            </item>
+            <item>
+                <id>58</id>
+                <title>Porsche Tower</title>
+                <image>images/158.jpg</image>
+                <address>18555 Collins Ave</address>
+                <rent>0</rent>
+                <sale>1</sale>
+                <coordinate>
+                    <lng>-80.1205312</lng>
+                    <lat>25.94822</lat>
+                </coordinate>
+                <min_rent/>
+                <min_sale>32500000</min_sale>
+            </item>
+            <item>
+                <id>59</id>
+                <title>Regalia</title>
+                <image>images/959.jpg</image>
+                <address>19575 Collins Ave</address>
+                <rent>0</rent>
+                <sale>12</sale>
+                <coordinate>
+                    <lng>-80.1197213</lng>
+                    <lat>25.9555605</lat>
+                </coordinate>
+                <min_rent/>
+                <min_sale>9490000</min_sale>
+            </item>
+            <item>
+                <id>60</id>
+                <title>Ritz Carlton Sunny Isles</title>
+                <image>images/360.jpg</image>
+                <address>15701 Collins Ave</address>
+                <rent>0</rent>
+                <sale>4</sale>
+                <coordinate>
+                    <lng>-80.1228104</lng>
+                    <lat>25.9333066</lat>
+                </coordinate>
+                <min_rent/>
+                <min_sale>2371000</min_sale>
+            </item>
+            <item>
+                <id>72</id>
+                <title>Sands Pointe</title>
+                <image>images/572.jpg</image>
+                <address>16711 Collins Ave</address>
+                <rent>25</rent>
+                <sale>7</sale>
+                <coordinate>
+                    <lng>-80.1209742</lng>
+                    <lat>25.931577</lat>
+                </coordinate>
+                <min_rent>1600</min_rent>
+                <min_sale>860000</min_sale>
+            </item>
+            <item>
+                <id>61</id>
+                <title>Sayan</title>
+                <image>images/961.jpg</image>
+                <address>16275 Collins Ave</address>
+                <rent>8</rent>
+                <sale>11</sale>
+                <coordinate>
+                    <lng>-80.1216643</lng>
+                    <lat>25.9269283</lat>
+                </coordinate>
+                <min_rent>2999</min_rent>
+                <min_sale>569000</min_sale>
+            </item>
+            <item>
+                <id>76</id>
+                <title>St Tropez</title>
+                <image>images/276.jpg</image>
+                <address>330 Sunny Isles Blvd</address>
+                <rent>0</rent>
+                <sale>0</sale>
+                <coordinate>
+                    <lng>-80.1201226</lng>
+                    <lat>25.8592468</lat>
+                </coordinate>
+                <min_rent/>
+                <min_sale/>
+            </item>
+            <item>
+                <id>63</id>
+                <title>Trump International</title>
+                <image>images/363.jpeg</image>
+                <address>18001 Collins Ave</address>
+                <rent>2</rent>
+                <sale>31</sale>
+                <coordinate>
+                    <lng>-80.1206993</lng>
+                    <lat>25.9432471</lat>
+                </coordinate>
+                <min_rent>1800</min_rent>
+                <min_sale>315000</min_sale>
+            </item>
+            <item>
+                <id>64</id>
+                <title>Trump Palace</title>
+                <image>images/564.jpg</image>
+                <address>18101 Collins Ave</address>
+                <rent>25</rent>
+                <sale>33</sale>
+                <coordinate>
+                    <lng>-80.1202105</lng>
+                    <lat>25.9440285</lat>
+                </coordinate>
+                <min_rent>3300</min_rent>
+                <min_sale>398000</min_sale>
+            </item>
+            <item>
+                <id>65</id>
+                <title>Trump Royale</title>
+                <image>images/765.jpg</image>
+                <address>18201 Collins Ave</address>
+                <rent>44</rent>
+                <sale>38</sale>
+                <coordinate>
+                    <lng>-80.1200959</lng>
+                    <lat>25.9448747</lat>
+                </coordinate>
+                <min_rent>3000</min_rent>
+                <min_sale>839990</min_sale>
+            </item>
+            <item>
+                <id>66</id>
+                <title>Trump Tower I</title>
+                <image>images/266.jpg</image>
+                <address>16001 Collins Ave</address>
+                <rent>36</rent>
+                <sale>36</sale>
+                <coordinate>
+                    <lng>-80.121660</lng>
+                    <lat>25.924603</lat>
+                </coordinate>
+                <min_rent>3700</min_rent>
+                <min_sale>810000</min_sale>
+            </item>
+            <item>
+                <id>68</id>
+                <title>Trump Tower II</title>
+                <image>images/268.jpg</image>
+                <address>15901 Collins Ave</address>
+                <rent>35</rent>
+                <sale>41</sale>
+                <coordinate>
+                    <lng>-80.1217827</lng>
+                    <lat>25.9237006</lat>
+                </coordinate>
+                <min_rent>3600</min_rent>
+                <min_sale>225000</min_sale>
+            </item>
+            <item>
+                <id>69</id>
+                <title>Trump Tower III</title>
+                <image>images/369.jpg</image>
+                <address>15811 Collins Ave</address>
+                <rent>45</rent>
+                <sale>42</sale>
+                <coordinate>
+                    <lng>-80.1217679</lng>
+                    <lat>25.9228075</lat>
+                </coordinate>
+                <min_rent>3950</min_rent>
+                <min_sale>950000</min_sale>
+            </item>
+            <item>
+                <id>77</id>
+                <title>Turnberry Ocean Club</title>
+                <image>images/12531315-turnberry-ocean-club77.jpg</image>
+                <address>18501 Collins Ave</address>
+                <rent>0</rent>
+                <sale>7</sale>
+                <coordinate>
+                    <lng>-80.1220058</lng>
+                    <lat>25.9472832</lat>
+                </coordinate>
+                <min_rent/>
+                <min_sale>4150000</min_sale>
+            </item>
+            <item>
+                <id>71</id>
+                <title>Turnberry Ocean Colony</title>
+                <image>images/571.jpg</image>
+                <address>16047 Collins Ave</address>
+                <rent>4</rent>
+                <sale>16</sale>
+                <coordinate>
+                    <lng>-80.1221706</lng>
+                    <lat>25.9239467</lat>
+                </coordinate>
+                <min_rent>10500</min_rent>
+                <min_sale>2150000</min_sale>
+            </item>
+        </buildings>
+        <recentDetail>
+            <item>
+                <id>439</id>
+                <unit_number>3403</unit_number>
+                <building_title>Trump Tower II</building_title>
+                <building_id>68</building_id>
+                <date>09/09</date>
+                <date_year>2016</date_year>
+                <bedroom>3</bedroom>
+                <bath_full>3</bath_full>
+                <living_area>1,962</living_area>
+                <price>4,900/mo</price>
+                <percent>9.2592592592593</percent>
+                <status>3</status>
+            </item>
+            <item>
+                <id>214</id>
+                <unit_number>207</unit_number>
+                <building_title>Ocean Two</building_title>
+                <building_id>48</building_id>
+                <date>09/09</date>
+                <date_year>2016</date_year>
+                <bedroom>2</bedroom>
+                <bath_full>2</bath_full>
+                <living_area>1,900</living_area>
+                <price>3,600/mo</price>
+                <percent>4</percent>
+                <status>3</status>
+            </item>
+            <item>
+                <id>723</id>
+                <unit_number>PH07</unit_number>
+                <building_title>Ocean One</building_title>
+                <building_id>47</building_id>
+                <date>09/08</date>
+                <date_year>2016</date_year>
+                <bedroom>3</bedroom>
+                <bath_full>2</bath_full>
+                <living_area>2,303</living_area>
+                <price>1,999,999</price>
+                <percent>13.04352173913</percent>
+                <status>3</status>
+            </item>
+            <item>
+                <id>368</id>
+                <unit_number>2008A</unit_number>
+                <building_title>Trump Royale</building_title>
+                <building_id>65</building_id>
+                <date>09/08</date>
+                <date_year>2016</date_year>
+                <bedroom>1</bedroom>
+                <bath_full>1</bath_full>
+                <living_area>992</living_area>
+                <price>4,000/mo</price>
+                <percent>4.7619047619048</percent>
+                <status>3</status>
+            </item>
+            <item>
+                <id>937</id>
+                <unit_number>PH5507</unit_number>
+                <building_title>Trump Royale</building_title>
+                <building_id>65</building_id>
+                <date>09/08</date>
+                <date_year>2016</date_year>
+                <bedroom>3</bedroom>
+                <bath_full>3</bath_full>
+                <living_area>1,500</living_area>
+                <price>1,450,000</price>
+                <percent>90.169491525424</percent>
+                <status>3</status>
+            </item>
+            <item>
+                <id>399</id>
+                <unit_number>1505</unit_number>
+                <building_title>Trump Tower I</building_title>
+                <building_id>66</building_id>
+                <date>09/08</date>
+                <date_year>2016</date_year>
+                <bedroom>2</bedroom>
+                <bath_full>2</bath_full>
+                <living_area>1,435</living_area>
+                <price>3,700/mo</price>
+                <percent>2.6315789473684</percent>
+                <status>3</status>
+            </item>
+            <item>
+                <id>363</id>
+                <unit_number>4409A</unit_number>
+                <building_title>Trump Royale</building_title>
+                <building_id>65</building_id>
+                <date>09/08</date>
+                <date_year>2016</date_year>
+                <bedroom>2</bedroom>
+                <bath_full>2</bath_full>
+                <living_area>1,324</living_area>
+                <price>5,500/mo</price>
+                <percent>8.3333333333333</percent>
+                <status>3</status>
+            </item>
+            <item>
+                <id>937</id>
+                <unit_number>PH5507</unit_number>
+                <building_title>Trump Royale</building_title>
+                <building_id>65</building_id>
+                <date>09/08</date>
+                <date_year>2016</date_year>
+                <bedroom>3</bedroom>
+                <bath_full>3</bath_full>
+                <living_area>1,500</living_area>
+                <price>14,750,000</price>
+                <percent>-890.59771658831</percent>
+                <status>3</status>
+            </item>
+            <item>
+                <id>99</id>
+                <unit_number>1905</unit_number>
+                <building_title>La Perla</building_title>
+                <building_id>42</building_id>
+                <date>09/08</date>
+                <date_year>2016</date_year>
+                <bedroom>1</bedroom>
+                <bath_full>1</bath_full>
+                <living_area>1,000</living_area>
+                <price>2,999/mo</price>
+                <percent>4.7936507936508</percent>
+                <status>3</status>
+            </item>
+            <item>
+                <id>618</id>
+                <unit_number>2908</unit_number>
+                <building_title>Jade Ocean</building_title>
+                <building_id>6</building_id>
+                <date>09/06</date>
+                <date_year>2016</date_year>
+                <bedroom>4</bedroom>
+                <bath_full>4</bath_full>
+                <living_area>2,485</living_area>
+                <price>2,899,999</price>
+                <percent>+3.6</percent>
+                <status>3</status>
+            </item>
+        </recentDetail>
+    </detailContent>
+    <status>ALL_FINE</status>
+</response>
